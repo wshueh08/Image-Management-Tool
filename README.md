@@ -14,3 +14,6 @@ Show image properties
 GUI to allow user to select which format(s) to convert the image(s) to
 
 Allow users to download converted images
+
+
+The class diagram and screenshots of various tests are located inside src/main/resources/images.
